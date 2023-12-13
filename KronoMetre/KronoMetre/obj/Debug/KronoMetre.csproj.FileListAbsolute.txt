@@ -1,0 +1,7 @@
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\bin\Debug\KronoMetre.exe.config
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\bin\Debug\KronoMetre.exe
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\bin\Debug\KronoMetre.pdb
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\obj\Debug\KronoMetre.csproj.AssemblyReference.cache
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\obj\Debug\KronoMetre.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\obj\Debug\KronoMetre.exe
+C:\Users\osman\source\repos\KronoMetre\KronoMetre\obj\Debug\KronoMetre.pdb
